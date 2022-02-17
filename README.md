@@ -1,2 +1,1 @@
-# project
-first project
+vse vetki sliti
